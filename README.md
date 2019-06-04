@@ -1,6 +1,8 @@
 # web-js-add-canvas-watermark
 native js code to add canvas or image watermark,you can set text,size,rotate,color,gap
+js代码批量设置canvas水印
 
+```javascript
 /**
  * 
  * @param {Element} dom 
@@ -45,3 +47,4 @@ const drawWaterMark = (
 }
 
 drawWaterMark()
+```
