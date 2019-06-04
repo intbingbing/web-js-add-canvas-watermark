@@ -5,7 +5,7 @@ js代码批量设置canvas水印
 ```javascript
 /**
  * 
- * @param {Element} dom 
+ * @param {Element} canvas dom 
  * @param {String} text 
  * @param {Number} rotate 标准坐标轴角度
  * @param {String} color 
