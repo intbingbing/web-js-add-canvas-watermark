@@ -2,6 +2,8 @@
 native js code to add canvas or image watermark,you can set text,size,rotate,color,gap
 js代码批量设置canvas水印
 
+![](/watermark.png "水印")  
+
 ```javascript
 /**
  * 
